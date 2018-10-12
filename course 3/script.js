@@ -1,0 +1,16 @@
+const body = document.querySelector('body');
+const nameClass = document.querySelector('h2');
+const image = document.querySelector('img');
+const shortB = document.querySelector('.shortBio');
+let backGr = prompt("Какой будет фон у страницы?");
+body.style.backgroundColor = backGr;
+let textColor = prompt("Какой будет цвет текста на странице?");
+nameClass.style.color = textColor;
+let namePeople = prompt("Как зовут человека, который вас вдохновляет?");
+nameClass.textContent += " " + namePeople;
+let addrImg = prompt("Введите адрес картинки");
+image.setAttribute('src', addrImg);
+let textlink = prompt("Введите текст страницы");
+shortB.textContent = textlink;
+shortB.style.color = textColor;
+shortB.className += ' animated';
