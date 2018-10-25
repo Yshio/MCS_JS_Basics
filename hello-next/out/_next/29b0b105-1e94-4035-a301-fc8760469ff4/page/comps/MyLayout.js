@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/comps/MyLayout",function(){return{page:webpackJsonp([8],{262:function(o,e,t){o.exports=t(43)}},[262]).default}});

@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/comps/Format",function(){return{page:webpackJsonp([10],{259:function(o,e,t){o.exports=t(30)}},[259]).default}});

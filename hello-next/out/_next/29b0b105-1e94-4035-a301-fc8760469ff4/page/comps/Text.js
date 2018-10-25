@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/comps/Text",function(){return{page:webpackJsonp([4],{263:function(e,t,n){e.exports=n(264)},264:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n(1),l=n.n(u),r=n(81);n(30);t.default=function(e){return l.a.createElement("div",null,l.a.createElement(r.default,null),e.children)}}},[263]).default}});

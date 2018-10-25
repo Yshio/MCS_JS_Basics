@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/comps/Upblock",function(){return{page:webpackJsonp([7],{265:function(o,e,p){o.exports=p(84)}},[265]).default}});
